@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geA/static/css/main.e6c13ad2.css",
+    "main.js": "/geA/static/js/main.c39d8971.js",
+    "static/js/453.024471d1.chunk.js": "/geA/static/js/453.024471d1.chunk.js",
+    "index.html": "/geA/index.html",
+    "main.e6c13ad2.css.map": "/geA/static/css/main.e6c13ad2.css.map",
+    "main.c39d8971.js.map": "/geA/static/js/main.c39d8971.js.map",
+    "453.024471d1.chunk.js.map": "/geA/static/js/453.024471d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c39d8971.js"
+  ]
+}
